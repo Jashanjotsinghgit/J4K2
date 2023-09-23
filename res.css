@@ -1,0 +1,44 @@
+
+.re{
+    display: none;
+}
+.re{
+    display: none;
+}
+@media only screen and (max-width: 1312px) {
+    body {
+      background-color: lightblue;
+    }
+    header {
+        display: none;
+      }
+      .re{
+  
+      width: 100%;
+      border: 2px solid;
+      display: block;
+      position: fixed;
+      z-index: 100;
+      }
+      .re1{
+        display: block;
+            
+      }
+}
+@media only screen and (max-width: 654px) {
+    body {
+      background-color: lightblue;
+    }
+    header {
+        display: none;
+      }
+      .re{
+  
+      width: 100%;
+      border: 2px solid;
+      display: block;
+      position: fixed;
+      z-index: 100;
+      }
+
+}

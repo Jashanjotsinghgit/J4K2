@@ -1,0 +1,116 @@
+
+
+header {
+
+ 
+
+    background-color: black;
+
+    color: #fff;
+
+    text-align: center;
+
+
+}
+
+.edit{
+
+    font-family: Arial, sans-serif;
+
+    font-size: 15px;
+
+    text-align: center;
+
+    color: grey;
+
+    background-color: whitesmoke;
+
+ 
+
+}
+
+#edita{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif,Arial, sans-serif;
+
+    font-size: 40px;
+
+    text-align: center;
+
+    background-color: whitesmoke;
+
+ 
+
+}
+
+#h1{
+
+    font-family:Arial, sans-serif;
+
+    font-size: 40px;
+
+    text-align: center;
+
+    background-color: whitesmoke;
+
+}
+
+ 
+
+#editc2{
+
+    color: burlywood;
+
+    background-color: whitesmoke;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    font-size: medium;
+
+}
+
+ 
+
+#editb{
+
+    width: 50%;
+
+   
+
+    margin-left: 5%;
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.editabc{
+
+    border-style: solid;
+
+    border-radius: 5%;
+
+    border-width: 1px;
+
+    height: 100%;
+
+    width: 40%;
+
+    margin-left: 29%;
+
+    margin-top:1%;
+
+    background-color: whitesmoke;
+
+}
+
+footer{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    text-align: center;
+
+    margin-top: 1%;
+
+}
